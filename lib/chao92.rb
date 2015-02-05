@@ -1,5 +1,5 @@
 require "chao92/version"
+require "chao92/estimator"
 
 module Chao92
-  # Your code goes here...
 end
