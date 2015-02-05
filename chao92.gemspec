@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Eval Air"]
   spec.email         = ["pkuimehyd@163.com"]
   spec.summary       = %q{An estimator to estimate species richness based on Cho92 estimator}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.description   = %q{...}
   spec.homepage      = ""
   spec.license       = "MIT"
 

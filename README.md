@@ -1,6 +1,6 @@
 # Chao92
 
-TODO: Write a gem description
+A species richness estimator based on Chao92
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Simply require it!
 
 ## Contributing
 
