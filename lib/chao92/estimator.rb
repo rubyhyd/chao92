@@ -1,7 +1,15 @@
 module Chao92
 
+  # == Estimator
+  #
+  # Used to estimate the total number of species
+  #
+  # A minimal usage could be:
+  #
+  #   Chao92::Estimator.run(samples) # => the estimator of the samples
+  #
   class Estimator
-    
+
     def initialize
       @samples = []
       @observed = {}
@@ -17,6 +25,12 @@ module Chao92
       update()
       estimate()
       @N
+    end
+
+    # Show the samples
+    #
+    def show
+      @samples
     end
 
     private
